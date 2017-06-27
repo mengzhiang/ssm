@@ -1,2 +1,11 @@
+com/zhiang/ssm/domain/UserDO.class
+com/zhiang/ssm/mapper/UserDOMapper.class
+com/zhiang/activemq/Publisher.class
+com/zhiang/ssm/domain/UserDOExample.class
+com/zhiang/activemq/Consumer.class
 com/zhiang/po/User.class
+com/zhiang/ssm/domain/UserDOExample$Criteria.class
+com/zhiang/activemq/Listener.class
 com/zhiang/dao/UserDao.class
+com/zhiang/ssm/domain/UserDOExample$Criterion.class
+com/zhiang/ssm/domain/UserDOExample$GeneratedCriteria.class

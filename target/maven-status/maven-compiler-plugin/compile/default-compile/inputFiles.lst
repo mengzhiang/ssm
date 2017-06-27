@@ -1,5 +1,8 @@
-/Users/mengzhiang/Documents/work/study/test/src/main/java/com/zhiang/activemq/Consumer.java
-/Users/mengzhiang/Documents/work/study/test/src/main/java/com/zhiang/dao/UserDao.java
-/Users/mengzhiang/Documents/work/study/test/src/main/java/com/zhiang/activemq/Listener.java
-/Users/mengzhiang/Documents/work/study/test/src/main/java/com/zhiang/po/User.java
-/Users/mengzhiang/Documents/work/study/test/src/main/java/com/zhiang/activemq/Publisher.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/activemq/Consumer.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/dao/UserDao.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/po/User.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/ssm/domain/UserDO.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/ssm/domain/UserDOExample.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/activemq/Listener.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/ssm/mapper/UserDOMapper.java
+/Users/mengzhiang/Documents/github/ssm/src/main/java/com/zhiang/activemq/Publisher.java

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="jar://$PROJECT_DIR$/../../program/resp/com/taobao/logisticsdetail/logisticsdetail-common/3.1.0.20/logisticsdetail-common-3.1.0.20-sources.jar!/com/taobao/logisticsdetail/common/domain/message/OrderDetailMessage.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
