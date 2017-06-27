@@ -1,0 +1,29 @@
+.*
+!.gitignore
+.swp
+*.iml
+*.bak
+/*/target/
+target/*
+*/target/*
+*/*/target
+*.log
+/antx.properties
+bin/unlocker/Unlocker.cfg
+
+# temp file
+*~
+
+# idea
+/.idea
+/.idealtest
+/tmf-plugin-idea.properties
+.idea/
+
+# eclipse
+.project
+.classpath
+.settings/
+
+# mac
+.DS_Store

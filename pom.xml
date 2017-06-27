@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>test</groupId>
-  <artifactId>test</artifactId>
+  <groupId>ssm</groupId>
+  <artifactId>ssm</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>test Maven Webapp</name>
@@ -51,9 +51,21 @@
       <version>2.5.3</version>
     </dependency>
 
-
   </dependencies>
   <build>
     <finalName>test</finalName>
+    <plugins>
+      <plugin>
+        <groupId>org.mybatis.generator</groupId>
+        <artifactId>mybatis-generator-maven-plugin</artifactId>
+        <version>1.3.3</version>
+        <configuration>
+          <configurationFile>${basedir}/mybatis-gen/generatorConfig.xml</configurationFile>
+          <outputDirectory>${basedir}/src/main/java</outputDirectory>
+          <overwrite>true</overwrite>
+        </configuration>
+      </plugin>
+    </plugins>
   </build>
+
 </project>
